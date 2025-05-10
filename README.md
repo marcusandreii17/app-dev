@@ -5,7 +5,7 @@ My first repository
 
 ### Title: The Rookie
 
-#### Genre
+### Genre
 - Police procedural
 - Crime drama
 - Action
